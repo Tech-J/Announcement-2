@@ -67,6 +67,7 @@ li
 		width: auto;
 		height: 1600px;
 		z-index: -1;
+		
 	}
 #h4L
 {
@@ -202,6 +203,7 @@ input[type=button]
 		left:0px;
 		position: fixed;
 		height: 85%;
+		z-index: 1;
 	}
 
 #imageR
@@ -209,6 +211,7 @@ input[type=button]
 		position: fixed;
 		right:0px;
 		height: 85%;
+		z-index: 1;
 	}
 
 
@@ -219,4 +222,3 @@ input[type=button]
 		line-height: 5px;
 		padding-right: 20px;
 	}
-}
